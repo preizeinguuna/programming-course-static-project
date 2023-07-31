@@ -3,7 +3,7 @@
 [View the Live Page](https://preizeinguuna.github.io/programming-course-static-project/)
 
 ## Description
-This project was created as part of a programming course, serving as a simple static landing page to demonstrate HTML and CSS skills. The objective was to build a basic website and gain hands-on experience in web development.
+This static web page was created in 2021 to demonstrate HTML, CSS, and JavaScript skills as part of a programming course, serving as a simple static landing page. The objective was to build a basic website and gain hands-on experience in web development.
 
 The landing page is designed with a clean and minimalistic layout, featuring options on the left side and a content section.
 
