@@ -51,8 +51,14 @@ The landing page aims to prioritize simplicity, making it an ideal starting poin
 To view the landing page, simply click on the following link: [View the Live Page](https://preizeinguuna.github.io/programming-course-static-project/)
 
 ## Technologies Used
+
 - HTML
 - CSS
+  
+## Editor
+
+I used Visual Studio code as my preferred text editor for this project.
+
 
 ## Project Structure
 programming-course-static-project/
