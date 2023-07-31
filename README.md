@@ -42,10 +42,8 @@ The right side of the content section presents a step-by-step guide on how to pu
    - Emphasize the importance of regularly adding new information to prevent the website from becoming outdated.
    - Suggest maintenance practices, such as updating the website with new content at least once a month, engaging in advertising efforts, and sharing news in social networks and interest groups.
 
-### Image
-![Image](https://github.com/preizeinguuna/programming-course-static-project/blob/master/image/http-url.jpg)
 
-The footer is positioned outside the main content area, enclosed in a blue oval, and contains additional footer information.
+The footer is positioned outside the main content area, enclosed in a blue square with rounded edges, and contains additional footer information.
 
 The landing page aims to prioritize simplicity, making it an ideal starting point for beginners to understand HTML, CSS, and grid layout concepts.
 
